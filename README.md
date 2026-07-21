@@ -1,18 +1,19 @@
-Can you make this more visually appealing and professional:
-
 # Abdullah Khan
 
-**SciML Researcher | AI/ML Engineer** 
-<br>
-<i>AI for Materials, Energy & Healthcare</i>
-<br>
-Khyber Pakhtunkhwa, Pakistan &nbsp;·&nbsp; MPhil Computer Science (ML)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-36454F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrabdullahkhan)
-[![Kaggle](https://img.shields.io/badge/Kaggle-36454F?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkhan161101)
-[![Email](https://img.shields.io/badge/Email-36454F?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahkhan.prof@gmail.com)
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="70%"><b>SciML Researcher | AI/ML Engineer</b></td>
+    <td width="30%" align="right"><a href="https://www.linkedin.com/in/mrabdullahkhan"><img src="https://img.shields.io/badge/LinkedIn-36454F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
+  </tr>
+  <tr>
+    <td><i>AI for Materials, Energy & Healthcare</i></td>
+    <td align="right"><a href="https://www.kaggle.com/abdullahkhan161101"><img src="https://img.shields.io/badge/Kaggle-36454F?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a></td>
+  </tr>
+  <tr>
+    <td>Khyber Pakhtunkhwa, Pakistan &nbsp;·&nbsp; MPhil Computer Science (ML)</td>
+    <td align="right"><a href="mailto:abdullahkhan.prof@gmail.com"><img src="https://img.shields.io/badge/Email-36454F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a></td>
+  </tr>
+</table>
 
 <br>
 
