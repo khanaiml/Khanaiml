@@ -1,24 +1,37 @@
 # Abdullah Khan
 
-<table width="100%">
-  <tr>
-    <td width="70%"><b>SciML Researcher | AI/ML Engineer</b></td>
-    <td width="30%" align="right"><a href="https://www.linkedin.com/in/mrabdullahkhan"><img src="https://img.shields.io/badge/LinkedIn-36454F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a></td>
+# Abdullah Khan
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" frame="void" rules="none" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none; background: transparent;">
+    <td align="left" style="border: none; padding: 0px;">
+      <b>SciML Researcher | AI/ML Engineer</b>
+    </td>
+    <td align="right" style="border: none; padding: 0px;">
+      <a href="https://www.linkedin.com/in/mrabdullahkhan"><img src="https://img.shields.io/badge/LinkedIn-36454F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    </td>
   </tr>
-  <tr>
-    <td><i>AI for Materials, Energy & Healthcare</i></td>
-    <td align="right"><a href="https://www.kaggle.com/abdullahkhan161101"><img src="https://img.shields.io/badge/Kaggle-36454F?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a></td>
+  <tr style="border: none; background: transparent;">
+    <td align="left" style="border: none; padding: 0px;">
+      <i>AI for Materials, Energy & Healthcare</i>
+    </td>
+    <td align="right" style="border: none; padding: 0px;">
+      <a href="https://www.kaggle.com/abdullahkhan161101"><img src="https://img.shields.io/badge/Kaggle-36454F?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+    </td>
   </tr>
-  <tr>
-    <td>Khyber Pakhtunkhwa, Pakistan &nbsp;·&nbsp; MPhil Computer Science (ML)</td>
-    <td align="right"><a href="mailto:abdullahkhan.prof@gmail.com"><img src="https://img.shields.io/badge/Email-36454F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a></td>
+  <tr style="border: none; background: transparent;">
+    <td align="left" style="border: none; padding: 0px;">
+      Khyber Pakhtunkhwa, Pakistan &nbsp;·&nbsp; MPhil Computer Science (ML)
+    </td>
+    <td align="right" style="border: none; padding: 0px;">
+      <a href="mailto:abdullahkhan.prof@gmail.com"><img src="https://img.shields.io/badge/Email-36454F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    </td>
   </tr>
 </table>
 
 <br>
 
-I'm a **Scientific Machine Learning (SciML)** researcher working at the intersection of *AI and the natural sciences*, with applications across **materials, energy, & healthcare**.
-
+I'm a Scientific Machine Learning (SciML) researcher working at the intersection of *AI and the natural sciences*, with applications across materials, energy, & healthcare.
 <br>
 
 ---
