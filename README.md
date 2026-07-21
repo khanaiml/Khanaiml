@@ -2,8 +2,6 @@
 
 # Abdullah Khan
 
-<sub>@khanaiml</sub>
-
 **Scientific Machine Learning (SciML) Researcher | AI for Materials, Energy & Healthcare | AI/ML Engineer**
 
 Khyber Pakhtunkhwa, Pakistan &nbsp;·&nbsp; MPhil Computer Science (ML)
