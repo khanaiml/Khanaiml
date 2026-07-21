@@ -8,7 +8,7 @@ Khyber Pakhtunkhwa, Pakistan &nbsp;·&nbsp; MPhil Computer Science (spec: ML)
 [![Kaggle](https://img.shields.io/badge/Kaggle-36454F?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkhan161101)
 [![Email](https://img.shields.io/badge/Email-36454F?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahkhan.prof@gmail.com)
 
-I'm a Scientific Machine Learning (SciML) researcher working at the intersection of *AI and the natural sciences*, with applications across materials, energy, & healthcare.
+I'm a **Scientific Machine Learning** (SciML) researcher working at the intersection of *AI and the natural sciences*, with applications across materials, energy, & healthcare.
 
 ---
 
@@ -18,7 +18,7 @@ I'm a Scientific Machine Learning (SciML) researcher working at the intersection
 
 ▸ &nbsp;**MPhil thesis** — explainable variational autoencoders with ensemble feature selection for cancer biomarker identification *(publication in preparation)*
 
-▸ &nbsp;**Current work** — semantic neuron consolidation *(interpretability)* | AI for energy management | Pakistan dengue outbreak prediction
+▸ &nbsp;**Current work** — semantic neuron consolidation | AI for energy management | Pakistan dengue outbreak prediction
 
 ---
 
@@ -32,7 +32,7 @@ Designed and deployed **end-to-end ML solutions** for commercial applications �
 
 ## Tech
 
-![Python](https://img.shields.io/badge/Python-36454F?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-36454F?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-36454F?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-36454F?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-36454F?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-36454F?style=flat-square) ![Optuna](https://img.shields.io/badge/Optuna-36454F?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-36454F?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-36454F?style=flat-square&logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-36454F?style=flat-square&logo=huggingface&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-36454F?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-36454F?style=flat-square&logo=fastapi&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-36454F?style=flat-square&logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-36454F?style=flat-square&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-36454F?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-36454F?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-36454F?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-36454F?style=flat-square&logo=scikitlearn&logoColor=white)![SHAP](https://img.shields.io/badge/SHAP-36454F?style=flat-square) ![Optuna](https://img.shields.io/badge/Optuna-36454F?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-36454F?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-36454F?style=flat-square&logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-36454F?style=flat-square&logo=huggingface&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-36454F?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-36454F?style=flat-square&logo=fastapi&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-36454F?style=flat-square&logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-36454F?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
