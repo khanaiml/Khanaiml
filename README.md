@@ -14,7 +14,7 @@ Khyber Pakhtunkhwa, Pakistan &nbsp;·&nbsp; MPhil Computer Science (ML)
 
 <br>
 
-I'm a **Scientific Machine Learning (SciML)** researcher working at the intersection of *AI and the natural sciences*, with applications across **materials, energy, and healthcare**.
+I'm a **SciML** researcher working at the intersection of *AI and the natural sciences*, with applications across **materials, energy, and healthcare**.
 
 <br>
 
