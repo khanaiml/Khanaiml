@@ -3,8 +3,8 @@
 **SciML Researcher | AI/ML Engineer** 
 <br>
 <i>AI for Materials, Energy & Healthcare</i>
-<br>
-Khyber Pakhtunkhwa, Pakistan &nbsp;·&nbsp; MPhil Computer Science (ML)
+<br> <br>
+Khyber Pakhtunkhwa, Pakistan &nbsp;·&nbsp; MPhil Computer Science (spec: ML)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-36454F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrabdullahkhan)
 [![Kaggle](https://img.shields.io/badge/Kaggle-36454F?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkhan161101)
