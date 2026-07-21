@@ -1,123 +1,61 @@
-<div align="center">
+Can you make this more visually appealing and professional:
 
 # Abdullah Khan
 
-### Scientific Machine Learning (SciML) Researcher
-#### AI for Materials • Energy • Healthcare
-
-**AI/ML Engineer** • **MPhil Computer Science (Machine Learning)**
-
-📍 Khyber Pakhtunkhwa, Pakistan
-
+**SciML Researcher | AI/ML Engineer** 
 <br>
+<i>AI for Materials, Energy & Healthcare</i>
+<br>
+Khyber Pakhtunkhwa, Pakistan &nbsp;·&nbsp; MPhil Computer Science (ML)
 
-<a href="https://www.linkedin.com/in/mrabdullahkhan">
-<img src="https://img.shields.io/badge/LinkedIn-36454F?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.kaggle.com/abdullahkhan161101">
-<img src="https://img.shields.io/badge/Kaggle-36454F?style=for-the-badge&logo=kaggle&logoColor=white">
-</a>
-<a href="mailto:abdullahkhan.prof@gmail.com">
-<img src="https://img.shields.io/badge/Email-36454F?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-36454F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrabdullahkhan)
+[![Kaggle](https://img.shields.io/badge/Kaggle-36454F?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdullahkhan161101)
+[![Email](https://img.shields.io/badge/Email-36454F?style=flat-square&logo=gmail&logoColor=white)](mailto:abdullahkhan.prof@gmail.com)
 
 </div>
 
----
+<br>
 
-## About Me
+I'm a **Scientific Machine Learning (SciML)** researcher working at the intersection of *AI and the natural sciences*, with applications across **materials, energy, & healthcare**.
 
-I'm a **Scientific Machine Learning (SciML)** researcher developing machine learning methods for scientific discovery across **materials science, energy systems, and healthcare**.
-
-My work combines **physics-informed machine learning, explainable AI, deep learning, and scientific data analysis** to build models that are both accurate and scientifically interpretable.
+<br>
 
 ---
 
-# Research
+## Research
 
-### 🧪 Publications
+▸ &nbsp;**First-author paper** accepted in the **_Chinese Journal of Physics_ (Q1)** — physics-informed ML screening and validation of MOF/g-C₃N₄ heterojunction photocatalysts &nbsp;→&nbsp; [**Source Code**](https://github.com/khanaiml/mof-gcn-ml-screening)
 
-**First-author paper — Chinese Journal of Physics (Q1)**
+▸ &nbsp;**MPhil thesis** — explainable variational autoencoders with ensemble feature selection for cancer biomarker identification *(publication in preparation)*
 
-Physics-informed ML screening and validation of **MOF/g-C₃N₄ heterojunction photocatalysts**
+▸ &nbsp;**Current work** — semantic neuron consolidation *(interpretability)* | AI for energy management | Pakistan dengue outbreak prediction
 
-🔗 **Code:** https://github.com/khanaiml/mof-gcn-ml-screening
-
----
-
-### 🎓 Thesis
-
-**MPhil Thesis**
-
-Explainable Variational Autoencoders with Ensemble Feature Selection for Cancer Biomarker Identification
-
-*Publication in preparation*
+<br>
 
 ---
 
-### 🔬 Current Research
+## AI Engineering & Mentorship
 
-- Semantic Neuron Consolidation (Interpretability)
-- AI for Energy Management
-- Pakistan Dengue Outbreak Prediction
-- Scientific Machine Learning
+**AI Engineer & Trainer — TABSAP** &nbsp;·&nbsp; *2024–2026*
 
----
+Designed and deployed **end-to-end ML solutions** for commercial applications — *predictive lead scoring, computer vision pipelines, and LLM-powered automation* — owning projects from data engineering to production deployment. Created and led a structured **6-month AI/ML internship program** with a dedicated research month, *bridging the gap between academia and industry*, with mentorship publicly recognized in a student testimonial.
 
-# AI Engineering
-
-### AI Engineer & Trainer — TABSAP
-*2024 – 2026*
-
-- Built and deployed end-to-end machine learning solutions
-- Developed predictive lead scoring systems
-- Built computer vision pipelines
-- Designed LLM-powered automation systems
-- Led projects from data engineering to production deployment
-- Created and managed a structured **6-month AI/ML Internship Program**
-- Introduced a dedicated research month bridging academia and industry
-- Mentored interns whose work has been publicly recognized
+<br>
 
 ---
 
-# Tech Stack
+## Tech
 
-### Machine Learning
+![Python](https://img.shields.io/badge/Python-36454F?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-36454F?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-36454F?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-36454F?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-36454F?style=flat-square) ![SHAP](https://img.shields.io/badge/SHAP-36454F?style=flat-square) ![Optuna](https://img.shields.io/badge/Optuna-36454F?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-36454F?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-36454F?style=flat-square&logo=pandas&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-36454F?style=flat-square&logo=huggingface&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-36454F?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-36454F?style=flat-square&logo=fastapi&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-36454F?style=flat-square&logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-36454F?style=flat-square&logo=githubactions&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-36454F?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-36454F?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-36454F?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-36454F?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-36454F?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-36454F?style=flat-square)
-![Optuna](https://img.shields.io/badge/Optuna-36454F?style=flat-square)
-
-### Data Science
-
-![NumPy](https://img.shields.io/badge/NumPy-36454F?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-36454F?style=flat-square&logo=pandas&logoColor=white)
-
-### MLOps & Deployment
-
-![Docker](https://img.shields.io/badge/Docker-36454F?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-36454F?style=flat-square&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-36454F?style=flat-square&logo=mlflow&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-36454F?style=flat-square&logo=githubactions&logoColor=white)
-
-### Generative AI
-
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-36454F?style=flat-square&logo=huggingface&logoColor=white)
+<br>
 
 ---
 
 <div align="center">
 
-## Let's Connect
+**Open to research collaborations, PhD opportunities, and AI/ML engineering roles.**
 
-**Open to**
-
-🧪 Research Collaborations • 🎓 PhD Opportunities • 🤖 AI/ML Engineering Roles
-
-**abdullahkhan.prof@gmail.com**
+[**abdullahkhan.prof@gmail.com**](mailto:abdullahkhan.prof@gmail.com)
 
 </div>
